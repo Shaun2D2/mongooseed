@@ -27,5 +27,8 @@
   "homepage": "https://github.com/Shaun2D2/mongooseed#readme",
   "dependencies": {
     "commander": "^2.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0"
   }
 }
