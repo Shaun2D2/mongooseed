@@ -13,4 +13,4 @@ After searching for awhile there was no real good seeder for Mongoose that I cou
 ### Contribute
 ...
 
-This code was created by a human named Shaun. :alien:
+This code was created by a human named Shaun :alien:
