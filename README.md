@@ -1,4 +1,4 @@
-# mongooseed
+# mongooseed :seedling:
 epic seeder for mongoose
 
 ### What?
