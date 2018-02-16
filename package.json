@@ -1,0 +1,31 @@
+{
+  "name": "mongooseed",
+  "version": "1.0.0",
+  "description": "epic seeder utility for mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mseed": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaun2D2/mongooseed.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose",
+    "seeder",
+    "database"
+  ],
+  "author": "Shaun Lobsinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shaun2D2/mongooseed/issues"
+  },
+  "homepage": "https://github.com/Shaun2D2/mongooseed#readme",
+  "dependencies": {
+    "commander": "^2.14.1"
+  }
+}
