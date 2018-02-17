@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Shaun2D2/mongooseed#readme",
   "dependencies": {
+    "casual": "^1.5.19",
     "commander": "^2.14.1"
   },
   "devDependencies": {
